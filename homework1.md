@@ -1,4 +1,4 @@
-Student ID: jupyter101
+Student: jupyter101
 
 # Homework 1
 ---
